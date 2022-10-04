@@ -1,0 +1,29 @@
+[33mcommit ec9ff2305765f060bd76615b422f9e18f1cd1783[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: otters <tnguswkd3518@naver.com>
+Date:   Sat Oct 1 00:30:17 2022 +0900
+
+    404 오류
+
+[33mcommit 5553ed864a66ef73b04dee40c2f71b8b15fff1cc[m
+Author: otters <tnguswkd3518@naver.com>
+Date:   Fri Sep 30 22:06:16 2022 +0900
+
+    config 변경
+
+[33mcommit a4fca87c7a9734d3a69b284853677383a16ab52c[m
+Author: otters <tnguswkd3518@naver.com>
+Date:   Fri Sep 30 21:54:52 2022 +0900
+
+    config 변경
+
+[33mcommit 6f42184a365b0afa40ee27330ac122c9f0e03367[m
+Author: otters <tnguswkd3518@naver.com>
+Date:   Fri Sep 30 19:30:22 2022 +0900
+
+    타이틀 변경
+
+[33mcommit f05125a2415ba60e1209127257abfde9d933799c[m
+Author: otters <tnguswkd3518@naver.com>
+Date:   Fri Sep 30 19:25:33 2022 +0900
+
+    파이보 프로젝트 최초 커밋
